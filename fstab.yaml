@@ -1,5 +1,2 @@
 mountpoints:
-  /: 
-  url: https://author-p136715-e1377466.adobeaemcloud.com/bin/franklin.delivery/azmirrul-izzat/pocEdgeDelivery/dev
-  type: markup
-  suffix: .html
+  /: https://author-p136715-e1377466.adobeaemcloud.com/bin/franklin.delivery/azmirrul-izzat/pocEdgeDelivery/dev
