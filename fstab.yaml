@@ -1,2 +1,5 @@
 mountpoints:
   /: https://drive.google.com/drive/folders/1SdYUHBNEtI4-17GdXQ5AHRFq53eiaW1U
+    url: "https://author-p136715-e1377466.adobeaemcloud.com/bin/franklin.delivery/azmirrul-izzat/pocEdgeDelivery/dev"
+    type: "markup"
+    suffix: ".html"
